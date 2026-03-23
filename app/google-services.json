@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57614150768",
+    "project_id": "pigeonchats-285ac",
+    "storage_bucket": "pigeonchats-285ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57614150768:android:bdf9fbdcdd652c56cb18b5",
+        "android_client_info": {
+          "package_name": "com.chattingMessengerApp.pigeonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8yBWdAk4xWGfyD6Oha6_U9a-UWq364k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
