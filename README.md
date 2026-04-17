@@ -6,6 +6,9 @@ Saawan Shah
 ##  Overview
 Pigeon Chat App is a real-time messaging application built using Kotlin and Firebase. The app enables users to communicate instantly with a smooth and responsive user experience while following modern Android development practices.
 
+## APK Download
+[Download APK](PASTE-YOUR-LINK-HERE)
+
 ##  Features
 - User Authentication (Login/Signup)
 - Real-time Messaging using Firebase
